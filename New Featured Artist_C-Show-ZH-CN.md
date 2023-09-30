@@ -1,0 +1,74 @@
+<a href="https://osu.ppy.sh/home/news/2023-09-02-new-featured-artist-c-show">
+    <img src="https://i.ppy.sh/42c0d9fe518e45e29e0aa660c52b59e15ff5db31/68747470733a2f2f6173736574732e7070792e73682f617274697374732f3337382f6865616465722e6a7067">
+</a>
+
+
+# 全新特邀艺术家: beignet
+
+作者：**pishifat**
+
+osu!为**C-Show**铺开红地毯, 我们最新的特邀艺术家!
+
+你已经很难在osu!中找到不知道C-Show的玩家.
+
+自从2014年的歌曲[workaholic](https://osu.ppy.sh/beatmapsets/77441)到不到一周前的[AImee](https://osu.ppy.sh/beatmapsets/2044626), **C-Show**陪伴了osu!很长的时间. 与此同时,他们还会参与其他游戏，比如*SDVX*和*beatmania*, 让它们成为节奏游戏领域不可否认的主要元素!
+
+**C-Show**的**23 首**硬核唱片正式成为 osu! 的一部分，所有这些都可以从他的[列表](https://osu.ppy.sh/beatmaps/artists/378)中获得！
+
+## 特邀艺术家歌曲列表
+
+如果您想真正*体验***C-Show**所提供的一些内容， [osu!(lazer) 中的一批新](https://osu.ppy.sh/wiki/en/People/Featured_Artists/Featured_Artist_playlists)[**特色艺术家播放列表**](https://osu.ppy.sh/wiki/en/People/Featured_Artists/Featured_Artist_playlists)就在这里！每个播放列表中排名**前 10 的玩家**都有资格获得一些漂亮的个人资料徽章：
+
+![Featured Artist profile badge](https://i.ppy.sh/b28cf6ec559db38be24878014cedd973e0fe18e7/68747470733a2f2f6173736574732e7070792e73682f70726f66696c652d6261646765732f66612d706c61796c697374732f6661706c2d6f7375212e706e67) ![Featured Artist profile badge](https://i.ppy.sh/6e60f50371fd8cd29832fe9a878064bbb6e23ae6/68747470733a2f2f6173736574732e7070792e73682f70726f66696c652d6261646765732f66612d706c61796c697374732f6661706c2d6f7375217461696b6f2e706e67) ![Featured Artist profile badge](https://i.ppy.sh/43282b1e21a3274e6a28471f25d5ed12d34f2951/68747470733a2f2f6173736574732e7070792e73682f70726f66696c652d6261646765732f66612d706c61796c697374732f6661706c2d6f7375216d616e69612e706e67)
+
+本轮播放列表涵盖了**osu!** 、**osu!taiko**和**osu!mania**。我们的目标是下次让 osu!catch 做好准备！请在此处查看[奖励的完整说明](https://osu.ppy.sh/wiki/en/People/Featured_Artists/Featured_Artist_playlists#prizes)，并[在此处查看上一轮的获奖者](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists)。
+
+**想知道C-Show**如何转化为圆圈和滑块？[Ekoro](https://osu.ppy.sh/users/284905)在[COE](https://osu.ppy.sh/wiki/en/Community/cavoe's_osu!_event/2023)上使用 Easy mod进行了演示！……没有时间准备。事情是这样的：
+
+<video width="95%" controls="" style="box-sizing: border-box; display: inline-block; vertical-align: baseline; max-width: 100%;" src="https://assets.ppy.sh/artists/378/release_showcase.mp4"></video>
+
+### C-Show - Rocking to the Beat
+
+尝试播放上面由[Avena](https://osu.ppy.sh/users/2198472)主办的[视频中的地图](https://osu.ppy.sh/beatmapsets/305938)或由[Strategas](https://osu.ppy.sh/users/2971837)主办的[这套全新套装](https://osu.ppy.sh/beatmapsets/2031865)！
+
+<audio><source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20Rocking%20to%20the%20Beat.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### C-Show - WorkaHolic
+
+查看[Agka](https://osu.ppy.sh/users/64811)制作的[第一张**C-Show**排名地图](https://osu.ppy.sh/beatmapsets/77441)！
+
+<audio><source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20WorkaHolic.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### C-Show - AImee feat. Aitsuki Nakuru
+
+体验由[SMOKELIND](https://osu.ppy.sh/users/9327302)主办的[最近排名地图](https://osu.ppy.sh/beatmapsets/2044626)或由[Virtue-](https://osu.ppy.sh/users/6144772)主办的[4K osu!mania 地图](https://osu.ppy.sh/beatmapsets/2047648)！
+
+<audio><source src="https://assets.ppy.sh/artists/378/Make%20Some%20Noise%20for%20Mr%E2%80%8B.%E2%80%8BC/C-Show%20-%20AImee%20feat.%20Aitsuki%20Nakuru.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### C-Show - War Machine
+
+或者尝试这张由[ProfessionalBox](https://osu.ppy.sh/users/3250792)主办的[Loved 地图](https://osu.ppy.sh/beatmapsets/503580)！
+
+<audio><source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20War%20Machine.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### C-Show - Make Some Noise for Mr.C
+
+[在玩MaridiuS](https://osu.ppy.sh/users/4496961)主办的[这张地图](https://osu.ppy.sh/beatmapsets/1305940)时发出一些噪音（特别是用键盘）！
+
+<audio><source src="https://assets.ppy.sh/artists/378/Make%20Some%20Noise%20for%20Mr%E2%80%8B.%E2%80%8BC/C-Show%20-%20Make%20Some%20Noise%20for%20Mr.C.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### C-Show feat. Ishizawa Yukari - Border Line
+
+尝试一下[Hinsvar](https://osu.ppy.sh/users/1249323)主持的[另一个新的节奏图](https://osu.ppy.sh/beatmapsets/2035357)！
+
+<audio><source src="https://assets.ppy.sh/artists/378/Songs/C-Show%20-%20Border%20Line.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+------
+
+**C-Show**的所有曲调均已预先定时并准备好进行映射。您所要做的就是单击大矩形（如果您正在通过手机阅读，则单击小矩形）上的一些按钮，从[**C-Show**](https://osu.ppy.sh/beatmaps/artists/378)[精选艺术家列表的](https://osu.ppy.sh/beatmaps/artists/378)[链接](https://osu.ppy.sh/beatmaps/artists/378)开始！
+
+众所周知，绘制地图可能很难。如果您在迈出第一步时遇到困难，也许可以查看[地图绘制者协会](https://osu.ppy.sh/wiki/en/Community/Mappers_Guild)，了解一些与其他新地图绘制者一起参与的方法！
+
+请继续关注下周另一位特色艺术家。
+
+—pishifat

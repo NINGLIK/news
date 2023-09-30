@@ -1,0 +1,156 @@
+<a href="https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild"><img src="https://i.ppy.sh/b02f670efe62990d4affaa44de7d74391b2d13da/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f62616e6e6572732f6d6170706572736775696c642e706e67"></a>
+
+# Changes to the Mappers' Guild
+
+by：**pishifat**
+
+The doors are wide open. Contribute to Featured Artist mapping and earn some cool stuff in the process through the **Mappers' Guild**!
+
+Not sure what the [**Mappers' Guild**](https://osu.ppy.sh/wiki/en/Community/Mappers_Guild) even is? You're not alone.
+
+The **Mappers' Guild** is a community of mappers who create maps from the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists) and [earn rewards](https://osu.ppy.sh/wiki/en/Community/Mappers_Guild#rewards) for their efforts. Since its inception, this MMO-inspired project expanded to [its own website](https://mappersguild.com/) and now includes a bunch of other mapping-related opportunities!
+
+This article covers new additions to the **Mappers' Guild** since [our last update](https://osu.ppy.sh/home/news/2022-07-25-mappers-guild-updates). Skip to any section you're interested in:
+
+- [Priority quests](https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild#priority-quests)
+- [Ranked map requirement lifted](https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild#ranked-map-requirement-lifted)
+- [Smaller changes](https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild#smaller-changes)
+- [Major contributors to Featured Artist mapping](https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild#major-contributors)
+
+## Priority quests
+
+[**Quests**](https://mappersguild.com/quests) allow mappers to collaborate on simple objectives tied to each Featured Artist, like *"Create and rank at least 2 mapsets of songs by `artist`, each hosted by a different user"*.
+
+[**Priority quests**](https://mappersguild.com/missions) take that a step further, offering more complex objectives that aren't necessarily tied to one Featured Artist's music!
+
+These new-style quests function differently from normal quests too. Here are the important differences:
+
+- **Anyone can participate in priority quests.** Unlike normal quests, you don't need to claim priority quests in advance.
+- **Quests are tiered by difficulty:**
+  - Tier 1 ![bronze icon](https://i.ppy.sh/569be8a7d0c91073f8a03bbc1dbedaea9032f802/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032332d30382d32392d6368616e6765732d746f2d7468652d6d6170706572732d6775696c642f62726f6e7a652d736d616c6c2e706e67) (easiest, most common, and lowest reward)
+  - Tier 2 ![silver icon](https://i.ppy.sh/5a3f9146427ac24df1a12933895721e4e81b8981/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032332d30382d32392d6368616e6765732d746f2d7468652d6d6170706572732d6775696c642f73696c7665722d736d616c6c2e706e67)
+  - Tier 3 ![gold icon](https://i.ppy.sh/2bb1e1764720934f63d5f0942ba716cf80749dc8/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032332d30382d32392d6368616e6765732d746f2d7468652d6d6170706572732d6775696c642f676f6c642d736d616c6c2e706e67)
+  - Tier 4 ![platinum icon](https://i.ppy.sh/69494cff470a432459a0aded088c31780795eb4e/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032332d30382d32392d6368616e6765732d746f2d7468652d6d6170706572732d6775696c642f706c6174696e756d2d736d616c6c2e706e67) (hardest, least common, and highest reward)
+- Depending on the quest's completion conditions, **multiple users can earn prizes for the same quest**.
+- **Priority quests don't last forever.** Maps can be added to priority quests until a deadline is met or a beatmap completes the quest.
+
+Check out these new quests from the [**priority quest listing**](https://mappersguild.com/missions). It explains basically everything that we can't fit in this article!
+
+### Priority quest rewards
+
+As the name implies, these quests are a bit more special than ordinary quests, and we're offering some special rewards in turn!
+
+To start, maps associated with priority quests earn bonus progress towards [Mappers' Guild profile badges](https://osu.ppy.sh/wiki/en/Community/Mappers_Guild#rewards). This is handled with a complicated point-based system, which you can read about [here](https://mappersguild.com/) if you're really invested.
+
+![Tier 1 badge](https://i.ppy.sh/57974ca52b820d6d76f383dd58967a03e48a6f36/68747470733a2f2f6173736574732e7070792e73682f70726f66696c652d6261646765732f6d67323031382d31737461722e706e67) ![Tier 2 badge](https://i.ppy.sh/4451976bff8afd44dfd8cb3c458844bd1b34a8bb/68747470733a2f2f6173736574732e7070792e73682f70726f66696c652d6261646765732f6d67323031382d32737461722e706e67) ![Tier 3 badge](https://i.ppy.sh/7ff2ced4adc75dd73c541aaa893d2b96bd5cd4ca/68747470733a2f2f6173736574732e7070792e73682f70726f66696c652d6261646765732f6d67323031382d33737461722e706e67) ![Tier 4 badge](https://i.ppy.sh/91417dff5c76d255aa52faf85e31c2488091563f/68747470733a2f2f6173736574732e7070792e73682f70726f66696c652d6261646765732f6d67323031382d34737461722e706e67)
+
+On top of that, anyone who completes a priority quest also receives a **customised keychain** based on a pattern in their winning beatmap!
+
+![keychain](https://i.ppy.sh/36d768e562baf4bff801cf05dc1032d18c53f83e/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032332d30382d32392d6368616e6765732d746f2d7468652d6d6170706572732d6775696c642f6b6579636861696e2e6a7067)
+
+Depending on your country, shipping this may be difficult or impossible. [pishifat](https://osu.ppy.sh/users/3178418) (the dude writing this article) will be creating and shipping these individually, so don't expect the same efficiency as a professional production studio. :)
+
+And on top of *all of that*, we're also offering a new profile badge to anyone who completes 3+ priority quests.
+
+![Priority quest badge](https://i.ppy.sh/aafcc958b60ef7884361f99a05a6674fce48bf47/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032332d30382d32392d6368616e6765732d746f2d7468652d6d6170706572732d6775696c642f717565737462616467652e706e67)
+
+The [**priority quest listing**](https://mappersguild.com/missions) details more about prizes and will always have a few active quests running at any given time, so participate in whichever you're interested in!
+
+## Ranked map requirement lifted
+
+Previously, you needed **at least 3 Ranked maps** to host beatmaps and earn rewards in the Mappers' Guild. Those days are over.
+
+As of this change, **anyone can participate in the Mappers' Guild**!
+
+This includes:
+
+- Linking your Featured Artist beatmaps to the [Mappers' Guild map list](https://mappersguild.com/beatmaps) to track reward progress
+- Collaborating in [quests](https://mappersguild.com/quests)
+- Submitting maps to new [priority quests](https://mappersguild.com/missions)
+
+If you're a newer mapper looking to get started with the Mappers' Guild, feel free to ask questions in the [osu! Discord server](https://discord.com/invite/ppy)'s `#mappers-guild` channel!
+
+## Smaller changes
+
+Most changes to the Mappers' Guild aren't too glamorous. Here's a few highlights from the past year:
+
+### Beatmap Nominator modding points
+
+Up until now, modders would earn 1 [Mappers' Guild point](https://osu.ppy.sh/wiki/en/Community/Mappers_Guild#rewards) for each map they mod.
+
+Some [Beatmap Nominators](https://osu.ppy.sh/wiki/en/People/Beatmap_Nominators) have requested their points for modding to scale according to beatmap length, since anyone who nominates a beatmap is guaranteed to have modded the full mapset.
+
+That said, anyone who nominated a Mappers' Guild beatmap has earned points relative to their modding efforts. This includes cases when a user forgot to add themselves as a modder too!
+
+### Notifications and invites removed
+
+Anyone who engaged with the Mappers' Guild before could tell you that these were annoying. So now they're gone.
+
+### Automatic quest dropping
+
+It's no secret that a lot of [quests](https://mappersguild.com/quests) are inactive. There's no major penalty for this, but to give other users a chance, any quest that is inactive for a year is dropped and made available to the public.
+
+### Party leader can compensate points for other users
+
+To claim certain [quests](https://mappersguild.com/quests), each party member would need to spend some points. Some users have 0 available points though, so they can't take quests.
+
+Instead of completely locking users out of quests, the party leader can now compensate for another user's lack of points by spending more of their own points.
+
+## Major contributors
+
+A ton of people are involved in the **Mappers' Guild**, but some stand out above the crowd. Below are some of the top contributors to the guild! (More specifically, this is anyone who's contributed 10+ difficulties to Ranked Featured Artist maps since last July... and [SMOKELIND](https://osu.ppy.sh/users/9327302), who focused on total Ranked maps instead.)
+
+| User                                                         | Modes                      | Ranked beatmaps | Ranked difficulties |
+| :----------------------------------------------------------- | :------------------------- | :-------------- | :------------------ |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ee-1f1e9.svg">[Hinsvar](https://osu.ppy.sh/users/1249323) | osu!                       | 15              | 65                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ed-1f1f0.svg"> [Faputa](https://osu.ppy.sh/users/845733) | osu!taiko, osu!mania       | 7               | 43                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ee-1f1e9.svg"> [FAMoss](https://osu.ppy.sh/users/7707789) | osu!mania                  | 9               | 40                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ea-1f1f8.svg"> [Deif](https://osu.ppy.sh/users/318565) | osu!, osu!catch            | 10              | 31                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f5-1f1ed.svg"> [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!, osu!catch            | 7               | 29                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ee-1f1ea.svg"> [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) | osu!taiko                  | 10              | 28                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f9-1f1f3.svg"> [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko                  | 6               | 27                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e6-1f1f7.svg"> [KyeX](https://osu.ppy.sh/users/15118934) | osu!taiko                  | 5               | 27                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ed-1f1f0.svg"> [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!, osu!taiko, osu!mania | 7               | 25                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ec-1f1e7.svg"> [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch                  | 5               | 24                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f9-1f1f7.svg"> [skolodojko](https://osu.ppy.sh/users/11716851) | osu!taiko                  | 3               | 17                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ee-1f1e9.svg"> [Verti](https://osu.ppy.sh/users/10674528) | osu!catch                  | 3               | 16                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1fa-1f1f8.svg"> [op45667](https://osu.ppy.sh/users/21973491) | osu!taiko                  | 4               | 16                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f5-1f1ed.svg"> [Ayesha Altugle](https://osu.ppy.sh/users/1125647) | osu!                       | 2               | 15                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ec-1f1e7.svg"> [AJT](https://osu.ppy.sh/users/3181083) | osu!                       | 5               | 15                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1eb-1f1ee.svg"> [Antti](https://osu.ppy.sh/users/13281473) | osu!taiko                  | 4               | 15                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f9-1f1ed.svg"> [Kukkai](https://osu.ppy.sh/users/7811952) | osu!catch                  | 3               | 15                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1fa-1f1f8.svg"> [Alchyr](https://osu.ppy.sh/users/4993032) | osu!taiko                  | 6               | 14                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ed-1f1f0.svg"> [autofanboy](https://osu.ppy.sh/users/636114) | osu!catch                  | 4               | 14                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e8-1f1f3.svg"> [Garden](https://osu.ppy.sh/users/2849992) | osu!                       | 3               | 14                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1fa-1f1e6.svg"> [allein](https://osu.ppy.sh/users/6221637) | osu!                       | 4               | 14                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1fa-1f1f8.svg"> [meiqth](https://osu.ppy.sh/users/12565402) | osu!taiko                  | 3               | 14                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f3-1f1f1.svg"> [Boaz](https://osu.ppy.sh/users/13302996) | osu!taiko                  | 5               | 14                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ed-1f1fa.svg"> [Nytrocide_](https://osu.ppy.sh/users/11327918) | osu!                       | 4               | 14                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f7-1f1fa.svg"> [PandaHero](https://osu.ppy.sh/users/1233255) | osu!                       | 4               | 13                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f7-1f1fa.svg"> [Daycore](https://osu.ppy.sh/users/5596337) | osu!                       | 3               | 13                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f3-1f1f1.svg"> [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!taiko, osu!catch       | 3               | 13                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ed-1f1f0.svg"> [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko, osu!catch       | 3               | 13                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f9-1f1f7.svg"> [Burak](https://osu.ppy.sh/users/13213075) | osu!taiko                  | 3               | 13                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e9-1f1ea.svg"> [Lasse](https://osu.ppy.sh/users/896613) | osu!                       | 3               | 12                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e8-1f1f1.svg"> [ZiRoX](https://osu.ppy.sh/users/200768) | osu!catch                  | 3               | 12                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1fa-1f1ff.svg"> [M a r v o l l o](https://osu.ppy.sh/users/5504231) | osu!, storyboarder         | 2               | 12                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ee-1f1e9.svg"> [frozz](https://osu.ppy.sh/users/7891266) | osu!                       | 2               | 12                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f0-1f1f7.svg"> [Down](https://osu.ppy.sh/users/4694602) | osu!                       | 3               | 12                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ec-1f1e7.svg"> [Horiiizon](https://osu.ppy.sh/users/8071438) | osu!taiko                  | 2               | 12                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f8-1f1ec.svg"> [arcpotato](https://osu.ppy.sh/users/12842392) | osu!taiko                  | 1               | 12                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f1-1f1f9.svg"> [Strategas](https://osu.ppy.sh/users/2971837) | osu!                       | 4               | 11                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f5-1f1ed.svg"> [-Rustyy](https://osu.ppy.sh/users/16355636) | osu!catch                  | 1               | 11                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e8-1f1f3.svg"> [cai_ji_ccc](https://osu.ppy.sh/users/20750584) | osu!mania                  | 2               | 11                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1fa-1f1f8.svg"> [Annabel](https://osu.ppy.sh/users/3388410) | osu!taiko                  | 2               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1ec-1f1e7.svg"> [DeviousPanda](https://osu.ppy.sh/users/4966334) | osu!                       | 2               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e6-1f1fa.svg"> [Iceluin](https://osu.ppy.sh/users/3558897) | osu!                       | 1               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e9-1f1ea.svg"> [PaRaDogi](https://osu.ppy.sh/users/2054596) | osu!                       | 4               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f5-1f1ed.svg"> [Eyenine](https://osu.ppy.sh/users/1259391) | osu!taiko                  | 2               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f9-1f1ed.svg"> [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | osu!taiko                  | 4               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1fa-1f1f8.svg"> [-NoName-](https://osu.ppy.sh/users/10400730) | osu!mania                  | 2               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1e8-1f1e6.svg"> [Unlucky_w](https://osu.ppy.sh/users/4820793) | osu!, osu!catch            | 3               | 10                  |
+| <img width="30" src="https://osu.ppy.sh/assets/images/flags/1f1f7-1f1fa.svg"> [SMOKELIND](https://osu.ppy.sh/users/9327302) | osu!                       | 8               | 8                   |
+
+While these folks may be in the spotlight, there's a lot of other people in the [**Mappers' Guild**](https://osu.ppy.sh/wiki/en/Community/Mappers_Guild) who contribute too. If you're one of them, thanks for the help!
+
+—pishifat

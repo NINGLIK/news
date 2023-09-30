@@ -1,0 +1,54 @@
+<img src="https://i.ppy.sh/af68cb329e9ef0dcf97106fa2b4f91f3077a9e9f/68747470733a2f2f6173736574732e7070792e73682f617274697374732f3337372f6865616465722e6a7067">
+# New Featured Artist: beignet
+
+作者：**pishifat**
+
+[YUC'e](https://osu.ppy.sh/beatmaps/artists/372) and [Aice room / Nor](https://osu.ppy.sh/beatmaps/artists/360) return to expand our Featured Artist library under the joint alias **beignet**!
+
+When these two collaborated for the first time in 2017, they had so much fun that they immediately knew they'd need to do it again and again and again. That's when **beignet** officially formed, and today, **beignet** officially has become one of osu!'s Featured Artists.
+
+**8** joint journeys can be found on [**beignet**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/377), each showcasing different sides of each artist's styles (and conveniently available in pre-timed beatmap templates).
+
+Everyone plays osu! in their own distinct way. While at [COE](https://osu.ppy.sh/wiki/en/Community/cavoe's_osu!_event/2023), we asked [Dwagon](https://osu.ppy.sh/users/9975427), who plays with a full-alternating style, to try out [beignet - Sign](https://osu.ppy.sh/beatmapsets/2030991). Check that out along with all of these other maps:
+
+<video width="95%" controls="" style="box-sizing: border-box; display: inline-block; vertical-align: baseline; max-width: 100%;" src="https://assets.ppy.sh/artists/377/release_showcase.mp4"></video>
+
+### beignet - Sign
+
+Enjoy [the map from the video above](https://osu.ppy.sh/beatmapsets/2030991) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
+
+<audio><source src="https://assets.ppy.sh/artists/377/Stevia/beignet%20-%20Sign.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### beignet - Mizutama
+
+If you're not a fan of clicking circles, maybe try [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1009290) hosted by [Yuemiao](https://osu.ppy.sh/users/4493348)!
+
+<audio><source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20Mizutama.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### beignet - Mint Comet
+
+Here's [another osu! map](https://osu.ppy.sh/beatmapsets/2031418) hosted by [Nachmark](https://osu.ppy.sh/users/17584310)!
+
+<audio><source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20Mizutama.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### beignet - Maple Trick
+
+And here's [a brand-new osu!mania map](https://osu.ppy.sh/beatmapsets/2032450) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
+
+<audio><source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20Mint%20Comet.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+### beignet - S'more
+
+Enjoy one last [osu! map](https://osu.ppy.sh/beatmapsets/2050540) hosted by [Stompy_](https://osu.ppy.sh/users/16429579)!
+
+<audio><source src="https://assets.ppy.sh/artists/377/renew%20memory/beignet%20-%20Maple%20Trick.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+------
+
+[**beignet**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/377) has even more songs to choose from. Sift through the templates for your favourite and start mapping already.
+
+New to mapping? Not sure what to do next? Here's an idea: post in [this forum thread](https://osu.ppy.sh/community/forums/topics/287145) to receive feedback on your map! This is meant specifically for users who have **0 Ranked maps** (...which most likely includes you).
+
+Stick around next week for a long-awaited artist reveal, alongside a new batch of [**Featured Artist playlists** in osu!(lazer)](https://osu.ppy.sh/wiki/en/People/Featured_Artists/Featured_Artist_playlists)!
+
+—pishifat
