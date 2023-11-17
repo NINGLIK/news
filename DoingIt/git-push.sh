@@ -1,3 +1,6 @@
+#用ssh连接github
+ssh -T git@github.com
+DE2794331348xRPG
 # 添加所有更改到暂存区
 git add .
 # 提交更改，并添加提交消息
