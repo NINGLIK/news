@@ -12,7 +12,7 @@ set "current_time=%current_time::=%"
 set "current_time=%current_time:.=%"
 
 REM 在时间后面添加其他内容
-set "custom_text=My Custom Text"
+set "custom_text=%MyCustomText"
 set "commit_message=Commit on %current_date% at %current_time% - %custom_text%"
 
 REM 用ssh连接github
